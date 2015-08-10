@@ -4,8 +4,10 @@ var Index = React.createClass({
   render: function () {
     return (
         <main>
-          Index component
+            Index component
         </main>
     )
   }
 });
+
+module.exports = Index;
