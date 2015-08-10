@@ -17,5 +17,10 @@
     "static-site-generator-webpack-plugin": "^1.0.1",
     "webpack": "^1.11.0",
     "webpack-dev-server": "^1.10.1"
+  },
+  "dependencies": {
+    "babel": "^5.8.21",
+    "css-loader": "^0.15.6",
+    "style-loader": "^0.12.3"
   }
 }
